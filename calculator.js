@@ -15,4 +15,5 @@
         }
         console.log(R)
         ;
+       // document.getElementById("resultado").innerHTML = R
     }); 
